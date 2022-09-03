@@ -1,0 +1,26 @@
+* {
+  font-family: arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+#amarillo, #azul, #rojo {
+  font-weight: 700;
+}
+
+#amarillo{
+  background-color: yellow;
+}
+
+#azul{
+  background-color: blue;
+  color: white;
+}
+
+#rojo{
+  background-color: red;
+  color: white;
+}
+
